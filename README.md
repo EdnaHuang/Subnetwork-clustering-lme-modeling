@@ -33,7 +33,7 @@ This repository contains MATLAB and R code for clustering neuronal activity data
 
 ## Hardware Requirements
 - **CPU**: Intel® Core™ i5
-- **RAM**: 32 GB
+- **RAM**: 16 GB
 - **OS**: Windows 10, MacOS, Linux
 - **Software**: MATLAB, RStudio
 - Note: These are minimum requirements. Additional computing resources may be needed for large datasets or intensive clustering tasks
