@@ -1,6 +1,6 @@
 # Neuronal Subnetwork Clustering and Statistical Analysis
 
-[![Apache License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
+![Apache License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ## Protocol to detect neuronal subnetworks via clustering and analyze nested data using statistical modeling
 Jui-Yen Huang, Gautam Chauhan, Pei-Ying Chen, Esen Tuna, and Hui-Chen Lu (2025)  
